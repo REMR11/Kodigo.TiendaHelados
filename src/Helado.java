@@ -1,0 +1,1 @@
+public enum Helado {CHOCOLATE, FRESA, VAINILLA}
